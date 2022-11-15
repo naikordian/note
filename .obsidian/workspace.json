@@ -4,16 +4,69 @@
     "type": "split",
     "children": [
       {
-        "id": "ddfc8de8ee91daa4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Recon/Web.md",
-            "mode": "source",
-            "source": false
+        "id": "6b3cfefffc0bb4e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddfc8de8ee91daa4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recon/Web.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec6301d4a906ae64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Researchs/Wordpress/Lab setup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3f39a2b140e5adb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Researchs/Wordpress/Lab setup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4eccecd10abff937",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Researchs/Wordpress/Resouces.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20bcdb5061fad3d9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
           }
-        }
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -31,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -77,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recon/Web.md",
+                "file": "Researchs/Wordpress/Resouces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recon/Web.md",
+                "file": "Researchs/Wordpress/Resouces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recon/Web.md"
+                "file": "Researchs/Wordpress/Resouces.md"
               }
             }
           }
@@ -128,8 +183,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ddfc8de8ee91daa4",
+  "active": "4eccecd10abff937",
   "lastOpenFiles": [
+    "Researchs/Wordpress/Lab setup.md",
+    "Researchs/Wordpress/howto-find-wordpress-plugin-vulnerabilities-wpscan-ebook (1).pdf",
+    "Researchs/Wordpress/HOW TO FIND WORDPRESS PLUGIN VULNS.md",
+    "Recon/Web.md",
     "Recon/Gobuster.md",
     "Todo-list/Task.md",
     "README.md"

@@ -1,0 +1,1 @@
+https://wpscan.com/howto-find-wordpress-plugin-vulnerabilities-wpscan-ebook.pdf

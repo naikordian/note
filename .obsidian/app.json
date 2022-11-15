@@ -1,1 +1,7 @@
-{}
+{
+  "readableLineLength": false,
+  "showFrontmatter": false,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "vimMode": true
+}
